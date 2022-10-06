@@ -1,0 +1,52 @@
+.Coin {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+
+  &__title {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+  }
+
+  &__coin-filters {
+    display: flex;
+  }
+
+  &__coin-selection {
+    display: flex;
+    flex-direction: column;
+    min-width: 50%;
+
+
+    &-select {
+      gap: 2em;
+
+      justify-content: space-between;
+      display: flex;
+      align-items: center;
+
+      select {
+        width: 10em;
+      }
+
+      div {
+        white-space: nowrap;
+      }
+    }
+  }
+
+  &__transactions-table {
+
+    .c-box {
+      padding: 0 2em;
+    }
+
+
+    .currency-cell {
+      display: flex;
+      align-items: center;
+      gap: 0.5em;
+    }
+
+  }
+}

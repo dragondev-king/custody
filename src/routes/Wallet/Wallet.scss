@@ -1,0 +1,62 @@
+@import '../../scss/shared.scss';
+
+.Wallets {
+  font-size: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+
+  &__title {
+    font-size: 1.5em;
+  }
+
+  &__description {
+    font-size: 1em;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__wallet-selection {
+    display: flex;
+    gap: 1em;
+  }
+
+  &__wallet-type-selection {
+    display: flex;
+    gap: 1em;
+  }
+
+  &__selected-wallet {
+    display: flex;
+    justify-content: space-between;
+    background-color: $brand-white;
+    padding: 1em;
+
+    border-radius: 16px;
+
+    &-information {
+      display: flex;
+      flex-direction: column;
+
+      &-name {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &__wallet-currency-table {
+
+    .c-box {
+      padding: 0 1em;
+    }
+
+    .currency-cell {
+      display: flex;
+      align-items: center;
+      gap: 0.5em;
+    }
+
+
+  }
+}

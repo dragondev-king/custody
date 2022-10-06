@@ -1,0 +1,21 @@
+@mixin absolute-full-size {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+@mixin set-typography($variant, $weight: 'normal') {
+  font-weight: map-get($FONT_WEIGHTS, $weight);
+  font-size: map-get($FONT_SIZES, $variant);
+  line-height: map-get($LINE_HEIGHTS, $variant);
+}
+
+@mixin absolute-full-size {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}

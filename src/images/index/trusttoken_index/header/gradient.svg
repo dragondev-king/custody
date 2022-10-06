@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="691px" height="239px" viewBox="0 0 691 239" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="98.2528287%" cy="93.8109155%" fx="98.2528287%" fy="93.8109155%" r="81.415445%" gradientTransform="translate(0.982528,0.938109),scale(0.336475,1.000000),rotate(-90.000004),scale(1.000000,3.607196),translate(-0.982528,-0.938109)" id="radialGradient-1">
+            <stop stop-color="#5593BD" offset="0%"></stop>
+            <stop stop-color="#1B5394" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.70234375">
+        <g id="06" transform="translate(-749.000000, -294.000000)" fill="url(#radialGradient-1)">
+            <g id="header" transform="translate(0.000000, -4.000000)">
+                <path d="M749,536.865462 C845.732646,442.979823 954.742876,379.811701 1076.03069,347.361096 C1197.31851,314.910491 1324.94314,298.456807 1458.9046,298.000043 L1458.9046,536.865462 L749,536.865462 Z" id="Path-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

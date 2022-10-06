@@ -1,0 +1,10 @@
+.date-range-filter {
+  &__inputs {
+    display: flex;
+    gap: 1rem;
+  }
+
+  &__error-message {
+    color: red;
+  }
+}

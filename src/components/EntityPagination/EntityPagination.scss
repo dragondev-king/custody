@@ -1,0 +1,17 @@
+.entity-pagination {
+  display: flex;
+  gap: 1rem;
+
+  &__select {
+    &-wrapper {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    &-content {
+      width: auto !important;
+      border-radius: 6px !important;
+    }
+  }
+}

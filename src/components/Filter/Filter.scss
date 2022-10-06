@@ -1,0 +1,26 @@
+@import 'scss/_shared.scss';
+
+.filter {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  background-color: $brand-white;
+  padding: 1em;
+  border-radius: 16px;
+
+  &__wrapper{
+    display: flex;
+    gap: 1rem;
+  }
+
+  &__status{
+    
+    &-select {
+      width: 75% !important;
+    }
+  }
+
+  &__button {
+    padding-top: 2rem;
+  }
+}

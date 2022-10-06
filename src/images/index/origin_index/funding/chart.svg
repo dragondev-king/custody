@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="601px" height="500px" viewBox="0 0 601 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0950559809 0.166365269 201.77031 0.166365269 201.77031 80.869721 0.0950559809 80.869721"></polygon>
+        <polygon id="path-3" points="2.91776726e-05 0.0574992 391.740439 0.0574992 391.740439 363 2.91776726e-05 363"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05a" transform="translate(-419.000000, -3738.000000)">
+            <g id="Funding-in-progress" transform="translate(-20.000000, 3522.000000)">
+                <g id="Group-2" transform="translate(419.000000, 221.000000)">
+                    <g id="Group-3" transform="translate(217.000000, 32.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M171.789257,79.120218 L201.77031,27.5819066 C137.89385,-9.85027904 63.0122569,-8.90398563 0.0950559809,30.1292838 L31.3436828,80.869721 C72.8435679,55.1815653 126.744223,52.7234335 171.789257,79.120218" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                    </g>
+                    <g id="Group-6" transform="translate(124.000000, 86.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-5"></g>
+                        <path d="M311.88564,95.0604072 C337.498563,136.626811 339.953517,190.621851 313.643599,235.745171 C275.663584,300.881891 192.141483,322.855491 127.0922,284.825191 C62.0424345,246.794407 40.0976848,163.160659 78.0772163,98.0244232 C89.752146,78.0027952 105.733275,62.0666112 124.153892,50.6901912 L92.8987798,0.0574992 C0.895268064,57.0030032 -27.5868429,177.850059 29.2826417,269.976555 C86.1516429,362.103535 206.837857,390.623719 298.841853,333.678699 C390.845364,276.732227 419.327475,155.885655 362.457991,63.7586752 L311.88564,95.0604072 Z" id="Fill-4" fill="#C2CBD3" mask="url(#mask-4)"></path>
+                    </g>
+                    <path d="M486,149.873116 C468.054606,121.015545 447.514388,101.105756 418.039724,84 L388,135.141595 C408.021641,146.761535 423.95906,162.666938 435.339196,181 L486,149.873116 Z" id="Fill-7" fill="#94A7B5"></path>
+                    <text id="CoinList-Sale---$6.6" font-family="Akkurat,Helvetica Neue,sans-serif" font-size="18" font-weight="normal" line-spacing="26" fill="#FFFFFF">
+                        <tspan x="19.8740234" y="17">CoinList Sale - $6.6M</tspan>
+                        <tspan x="79.0771484" y="43">(Open)</tspan>
+                    </text>
+                    <text id="Advisory-Sale---$3M" font-family="Akkurat,Helvetica Neue,sans-serif" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="523.694824" y="87">Advisory Sale - </tspan>
+                        <tspan x="557.679688" y="108">$3M</tspan>
+                        <tspan x="545.251953" y="129">(Closed)</tspan>
+                    </text>
+                    <text id="Strategic-Sale---$28" font-family="Akkurat,Helvetica Neue,sans-serif" font-size="14" font-weight="normal" line-spacing="21" fill="#FFFFFF">
+                        <tspan x="26.4370117" y="443">Strategic Sale - </tspan>
+                        <tspan x="51.456543" y="464">$28.4M</tspan>
+                        <tspan x="49.2519531" y="485">(Closed)</tspan>
+                    </text>
+                    <path d="M166,32 L216.5,61.5844517" id="Line-4" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M496.5,91.5 L465.5,120.5" id="Line-4-Copy" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M189.5,400.5 L160.5,433.5" id="Line-4-Copy-2" stroke="#FFFFFF" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

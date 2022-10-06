@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="197px" height="197px" viewBox="0 0 197 197" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>stx_icon</title>
+    <defs>
+        <radialGradient cx="72.3383358%" cy="85.7219608%" fx="72.3383358%" fy="85.7219608%" r="53.1370541%" id="radialGradient-1">
+            <stop stop-color="#D36287" offset="0%"></stop>
+            <stop stop-color="#5000FF" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stx_icon">
+            <circle id="Oval" fill="url(#radialGradient-1)" cx="98.5" cy="98.5" r="98.5"></circle>
+            <g id="Nexus-White" transform="translate(49.000000, 49.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M90.3747,99.59 L69.2447,67.576 L99.5887,67.576 L99.5887,55.4976 L0,55.4976 L0,67.59 L30.3341,67.59 L9.2142,99.59 L24.9708,99.59 L49.7945,61.9784 L74.6181,99.59 L90.3747,99.59 Z M99.5889,43.775 L99.5889,31.575 L69.8612,31.575 L90.7007,0 L74.9442,0 L49.7942,38.1051 L24.6447,0 L8.8882,0 L29.7544,31.6033 L0,31.6033 L0,43.775 L99.5889,43.775 Z" id="logoMark"></path>
+            </g>
+        </g>
+    </g>
+</svg>

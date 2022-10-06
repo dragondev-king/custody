@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>eth</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eth" fill-rule="nonzero">
+            <path d="M20,40 C31.0457,40 40,31.0457 40,20 C40,8.9543 31.0457,0 20,0 C8.9543,0 0,8.9543 0,20 C0,31.0457 8.9543,40 20,40 Z" id="Path" fill="#242424"></path>
+            <polygon id="Path" fill="#FFFFFF" points="20 10 14 20 20 18"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="20 30 20 24.7729 14 21"></polygon>
+            <polygon id="Path" fill="#FFFFFF" opacity="0.9" points="14 20 20 24 20 18"></polygon>
+            <g id="Group" opacity="0.7" transform="translate(20.000000, 10.000000)" fill="#FFFFFF">
+                <polygon id="Path" points="0 0 6 10 0 8"></polygon>
+                <polygon id="Path" points="0 20 0 14.7729 6 11"></polygon>
+                <polygon id="Path" fill-opacity="0.8" points="6 10 0 14 0 8"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

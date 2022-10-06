@@ -1,0 +1,26 @@
+
+.approval {
+  font-size: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+
+  &__title {
+    font-size: 1.5em;
+  }
+
+  &__table {
+    a {
+      color: blue;
+    }
+
+    &-content {
+      padding: 0 1rem;
+    }
+  }
+
+  &__footer {
+    display: flex;
+    justify-content: space-between;
+  }
+}

@@ -1,0 +1,20 @@
+@import '../../scss/shared.scss';
+
+.Dropdown {
+  &__overlay {
+    border: solid 1px $gray-lighter;
+    margin-top: 1em;
+    border-radius: 5px;
+    background-color: white;
+
+    &-option {
+      cursor: pointer;
+      padding: 1em;
+
+      &:hover {
+        background-color: $gray-lightest;
+      }
+    }
+  }
+
+}

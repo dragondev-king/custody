@@ -1,0 +1,37 @@
+
+.activity {
+  font-size: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+
+  &__title {
+    font-size: 1.5em;
+  }
+
+  &__table {
+    a {
+      color: blue;
+    }
+
+    &-content {
+      padding: 0 1rem;
+    }
+
+    &-status {
+      background: linear-gradient(180deg, #F03393 14.13%, #ff3ea0 97.78%);
+      border: 1px solid #ee1b;
+      padding: 0.5rem;
+      border-radius: 12px;
+      color: white;
+      display: block;
+      text-align: center;
+      width: 8rem;
+    }
+  }
+
+  &__footer {
+    display: flex;
+    justify-content: space-between;
+  }
+}

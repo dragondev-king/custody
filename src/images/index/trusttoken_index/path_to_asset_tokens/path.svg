@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1258px" height="687px" viewBox="0 0 1258 687" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 22</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="284" cy="284" r="284"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06-copy" transform="translate(-89.000000, -2494.000000)">
+            <g id="Group-21" transform="translate(-11.000000, 2383.000000)">
+                <g id="Group-22" transform="translate(100.000000, 0.000000)">
+                    <g id="Group-14">
+                        <text id="2018" font-family="Akkurat" font-size="17" font-weight="normal" line-spacing="25" fill="#2E3F53">
+                            <tspan x="38.46" y="636">2018</tspan>
+                        </text>
+                        <text id="2019" font-family="Akkurat" font-size="17" font-weight="normal" line-spacing="25" fill="#2E3F53">
+                            <tspan x="485.46" y="636">2019</tspan>
+                        </text>
+                        <text id="2020+" font-family="Akkurat" font-size="17" font-weight="normal" line-spacing="25" fill="#2E3F53">
+                            <tspan x="926.6715" y="636">2020+</tspan>
+                        </text>
+                        <g id="Rectangle-18" transform="translate(690.000000, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <rect fill="#60B3FD" mask="url(#mask-2)" x="-51" y="111" width="665" height="464"></rect>
+                        </g>
+                        <circle id="Oval-5" fill="#60B3FD" cx="505" cy="410" r="157"></circle>
+                        <circle id="Oval-5-Copy" fill="#60B3FD" cx="58.5" cy="508.5" r="58.5"></circle>
+                        <text id="Tokenized-Currencies" font-family="Akkurat" font-size="15" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                            <tspan x="23.0975" y="488">Tokenized </tspan>
+                            <tspan x="20.135" y="510">Currencies</tspan>
+                        </text>
+                        <text id="Tokenized-US-bonds," font-family="Akkurat" font-size="20" font-weight="normal" line-spacing="28" fill="#FFFFFF">
+                            <tspan x="444.2" y="370">Tokenized US </tspan>
+                            <tspan x="432.57" y="398">bonds, equities, </tspan>
+                            <tspan x="436.44" y="426">and real estate</tspan>
+                        </text>
+                        <text id="Tokenized-assets-wor" font-family="Akkurat" font-size="27" font-weight="normal" line-spacing="35" fill="#FFFFFF">
+                            <tspan x="865.755" y="260">Tokenized assets </tspan>
+                            <tspan x="907.5915" y="295">worldwide</tspan>
+                        </text>
+                        <text id="$40B" font-family="Akkurat-Bold, Akkurat" font-size="18" font-weight="bold" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="37" y="540">$40B</tspan>
+                        </text>
+                        <text id="$300B" font-family="Akkurat-Bold, Akkurat" font-size="26" font-weight="bold" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="466" y="485">$300B</tspan>
+                        </text>
+                        <text id="$1T+" font-family="Akkurat-Bold, Akkurat" font-size="45" font-weight="bold" line-spacing="20" fill="#FFFFFF">
+                            <tspan x="918" y="393">$1T+</tspan>
+                        </text>
+                        <rect id="Rectangle-19" fill="#75ADB6" x="56" y="589" width="4" height="16"></rect>
+                        <rect id="Rectangle-19-Copy" fill="#75ADB6" x="504" y="589" width="4" height="16"></rect>
+                        <rect id="Rectangle-19-Copy-3" fill="#75ADB6" x="281" y="591" width="2" height="12"></rect>
+                        <rect id="Rectangle-19-Copy-6" fill="#75ADB6" x="729" y="591" width="2" height="12"></rect>
+                        <rect id="Rectangle-19-Copy-5" fill="#75ADB6" x="393" y="591" width="2" height="12"></rect>
+                        <rect id="Rectangle-19-Copy-7" fill="#75ADB6" x="841" y="591" width="2" height="12"></rect>
+                        <rect id="Rectangle-19-Copy-4" fill="#75ADB6" x="170" y="591" width="2" height="12"></rect>
+                        <rect id="Rectangle-19-Copy-8" fill="#75ADB6" x="618" y="591" width="2" height="12"></rect>
+                        <rect id="Rectangle-19-Copy-2" fill="#75ADB6" x="952" y="589" width="4" height="16"></rect>
+                    </g>
+                    <rect id="Rectangle-20" fill="#24B187" opacity="0.459821429" x="134" y="635" width="77" height="77" rx="17"></rect>
+                    <rect id="Rectangle-20-Copy" fill="#24B187" opacity="0.459821429" x="356" y="635" width="77" height="77" rx="17"></rect>
+                    <g id="coin" opacity="0.904296875" transform="translate(374.000000, 660.000000)" fill="#FFFFFF">
+                        <path d="M43,12 L43,16.6349195 C42.9997867,16.6590346 43,16.6831715 43,16.7073299 C43,21.8395299 33.3741221,26 21.5,26 C9.62587788,26 0,21.8395299 0,16.7073299 C0,16.6831715 0.000213290378,16.6590346 0.000639101627,16.6349195 L0,12 C2.82817611,16.1331435 11.4294065,19.0486001 21.5,19.0486001 C31.5705935,19.0486001 40.1718239,16.1331435 43,12 Z" id="Combined-Shape"></path>
+                        <ellipse id="Oval" cx="21.5" cy="9" rx="21.5" ry="9"></ellipse>
+                    </g>
+                    <text id="TrueUSD-$85mm-market" font-family="Akkurat" font-size="17" font-weight="normal" line-spacing="25" fill="#2E3F53">
+                        <tspan x="77.487" y="743">TrueUSD $85mm market </tspan>
+                        <tspan x="98.6775" y="768">cap 4 months after </tspan>
+                        <tspan x="145.946" y="793">launch</tspan>
+                    </text>
+                    <text id="Security-token-excha" font-family="Akkurat" font-size="17" font-weight="normal" line-spacing="25" fill="#2E3F53">
+                        <tspan x="338.771" y="743">Security token </tspan>
+                        <tspan x="327.1515" y="768">exchanges go live</tspan>
+                    </text>
+                    <image id="Bitmap" x="154" y="654" width="36.4359862" height="39" xlink:href="data:image/png;base64,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"></image>
+                    <polygon id="Path-4" fill="#24B187" opacity="0.459821429" points="171.457031 620 164 635 178.313978 635"></polygon>
+                    <polygon id="Path-4-Copy" fill="#24B187" opacity="0.459821429" points="394.457031 620 387 635 401.313978 635"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

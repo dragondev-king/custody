@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>kadena_icon_svg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="19.894873%" y1="13.5110142%" x2="71.1674763%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FA9E5A" offset="0%"></stop>
+            <stop stop-color="#F20992" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.84330837%" y1="73.0720595%" x2="74.3013528%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FA9E5A" offset="0%"></stop>
+            <stop stop-color="#F20992" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="kadena_icon_svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path-3" fill="url(#linearGradient-1)" points="93 93 69.3356714 93 45 55.9981841 58.9519737 42"></polygon>
+        <polygon id="Path-2" fill="url(#linearGradient-2)" points="91 10 66.2696777 10 37 39.4570914 37 66"></polygon>
+        <polygon id="Path" fill="#ED0A8F" points="17 10 38 10 38 93 17 93"></polygon>
+    </g>
+</svg>

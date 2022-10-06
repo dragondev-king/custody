@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>kadena</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kadena">
+            <g id="b-link" fill="#6A0097" fill-rule="nonzero">
+                <circle id="b" cx="15" cy="15" r="15"></circle>
+            </g>
+            <g id="b-link" fill="#CC0791" fill-rule="nonzero">
+                <circle id="b" cx="15" cy="15" r="15"></circle>
+            </g>
+            <g id="b-link" style="mix-blend-mode: soft-light;" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                <circle id="b" cx="15" cy="15" r="15"></circle>
+            </g>
+            <circle id="Oval" stroke-opacity="0.217493444" stroke="#000000" cx="15" cy="15" r="14.5"></circle>
+            <polygon id="Path" fill="#000000" points="9 7 12.8849564 7 12.8849564 12.780202 18.1073404 7 22.5850848 7 16.7227359 13.4823399 23 23 18.5388178 23 14.2302182 16.2605948 12.8849564 17.6035591 12.8849564 23 9 23"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="9 7 12.8849564 7 12.8849564 12.780202 18.1073404 7 22.5850848 7 16.7227359 13.4823399 23 23 18.5388178 23 14.2302182 16.2605948 12.8849564 17.6035591 12.8849564 23 9 23"></polygon>
+        </g>
+    </g>
+</svg>

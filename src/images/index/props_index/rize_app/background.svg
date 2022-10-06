@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="748px" viewBox="0 0 1440 748" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>index/props_index/rize_app/background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="748"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#48E9FF" offset="0%"></stop>
+            <stop stop-color="#23CEFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="76.8745686%" y1="20.4683409%" x2="14.6342543%" y2="79.5947445%" id="linearGradient-4">
+            <stop stop-color="#48E9FF" offset="0%"></stop>
+            <stop stop-color="#23CEFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="coinlist-website-WIP-shortened" transform="translate(0.000000, -2677.000000)">
+            <g id="index/props_index/rize_app/background" transform="translate(0.000000, 2677.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#03B4FF" xlink:href="#path-1"></use>
+                <polygon id="Rectangle-2" fill="url(#linearGradient-3)" mask="url(#mask-2)" points="1764.46527 -173.184997 2096.06889 158.41862 842.495842 1411.99166 510.892225 1080.38805"></polygon>
+                <polygon id="Rectangle-2-Copy" fill="url(#linearGradient-3)" mask="url(#mask-2)" points="41.2305044 -107.535052 302.676453 153.910897 -360.589707 817.177058 -622.035656 555.731109"></polygon>
+                <polygon id="Rectangle-2-Copy-3" fill="url(#linearGradient-4)" opacity="0.600000024" mask="url(#mask-2)" points="1696.89524 238.45496 1892.38741 433.947135 1357.14116 969.193385 1161.64899 773.70121"></polygon>
+                <polygon id="Rectangle-2-Copy-4" fill="url(#linearGradient-3)" opacity="0.5" mask="url(#mask-2)" points="693.832808 610.085351 889.324984 805.577527 652.968525 1041.93399 457.47635 846.44181"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Landscape-Copy" transform="translate(-71.000000, -1475.000000)">
+            <g id="arrow-left" transform="translate(72.000000, 1475.000000)">
+                <circle id="Oval-2-Copy-4" stroke="#C9C9C9" stroke-width="1" transform="translate(13.176586, 14.103686) scale(-1, 1) translate(-13.176586, -14.103686) " cx="13.1765865" cy="14.1036861" r="13.1765865"></circle>
+                <path d="M6.61329212,14.1293962 L1.70079212,9.2168962 C1.46641712,8.9825212 1.08672212,8.9825212 0.85236212,9.2168962 C0.61800212,9.4512712 0.61798712,9.8309662 0.85236212,10.0653262 L5.34246212,14.5554262 L0.85071212,19.0812262 C0.61750712,19.3161862 0.61867712,19.6964662 0.85364312,19.9296562 C0.97083062,20.0456722 1.12376312,20.1036862 1.27610312,20.1036862 C1.43019812,20.1036862 1.58489312,20.0445067 1.70207312,19.9261462 L6.61457312,14.9761462 C6.84777812,14.7417712 6.84719312,14.3632612 6.61340012,14.1294712 L6.61329212,14.1293962 Z" id="Page-1-Copy-5" fill="#000000" fill-rule="evenodd" opacity="0.699999988" transform="translate(8.176586, 12.603686) scale(-1, 1) translate(-8.176586, -12.603686) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

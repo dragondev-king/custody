@@ -1,0 +1,51 @@
+{
+  "translation": {
+    "coin": {
+      "title": "Transactions",
+      "selectCoin": "Select Coin"
+    },
+    "login": {
+      "title": "Login to Coinlist Custody",
+      "username": "Username",
+      "password": "Password",
+      "noAccount": "Don't have a coinlist custody account?",
+      "login": "Login",
+      "forgotPassword": "Forgot Password?",
+      "signup": "Sign Up"
+    },
+    "approval": {
+      "title": "Approval"
+    },
+    "header": {
+      "logout": "Logout",
+      "account": "Account"
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "reports": "Reports",
+      "wallets": "Wallets",
+      "activity": "Activity",
+      "approvals": "Approvals",
+      "myAccount": "My Account"
+    },
+    "account": {
+      "title": "Account",
+      "personalInformation": {
+        "title": "Personal Information",
+        "description": "Update your name, email and password."
+      },
+      "security": {
+        "title": "Security",
+        "description": "Two factor authentication and account activity"
+      },
+      "preferences": {
+        "title": "Preferences",
+        "description": "Control email and notification preferences"
+      },
+      "developerOptions": {
+        "title": "Developer Options",
+        "description": "Create API keys"
+      }
+    }
+  }
+}

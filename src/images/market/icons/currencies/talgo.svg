@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>talgo</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-477.000000, -482.000000)">
+            <g id="talgo" transform="translate(477.000000, 482.000000)">
+                <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="15" cy="15" r="14.5"></circle>
+                <circle id="Oval" fill="#131111" fill-rule="nonzero" cx="15" cy="15" r="14.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="15" cy="15" r="15"></circle>
+                <circle id="Oval" stroke-opacity="0.097" stroke="#000000" cx="15" cy="15" r="14.5"></circle>
+                <g id="Path" transform="translate(6.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
+                    <g id="path-3-link">
+                        <polygon id="path-3" points="16.03125 16.0282617 13.5330469 16.0282617 11.9094141 10.0008984 8.4200977 16.0282617 5.6310352 16.0282617 11.0238867 6.6988477 10.1562891 3.45955078 2.88480469 16.03125 0.09375 16.03125 9.3086133 0.09375 11.7520313 0.09375 12.8218359 4.0532227 15.3429492 4.0532227 13.6216992 7.0415039"></polygon>
+                    </g>
+                    <g id="path-3-link">
+                        <polygon id="path-3" points="16.03125 16.0282617 13.5330469 16.0282617 11.9094141 10.0008984 8.4200977 16.0282617 5.6310352 16.0282617 11.0238867 6.6988477 10.1562891 3.45955078 2.88480469 16.03125 0.09375 16.03125 9.3086133 0.09375 11.7520313 0.09375 12.8218359 4.0532227 15.3429492 4.0532227 13.6216992 7.0415039"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

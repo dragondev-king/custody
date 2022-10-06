@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>clv copy</title>
+    <defs>
+        <linearGradient x1="91.3573327%" y1="85.7527977%" x2="13.3960808%" y2="7.11366868%" id="linearGradient-1">
+            <stop stop-color="#803DF6" offset="0%"></stop>
+            <stop stop-color="#5846FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="clv-copy" fill-rule="nonzero">
+            <rect id="Rectangle-Copy-7" fill="url(#linearGradient-1)" x="0" y="0" width="40" height="40" rx="20"></rect>
+            <path d="M28.2407407,30 L24.2061728,23.4677419 L30,23.4677419 L30,21 L11,21 L11,23.4677419 L16.7938272,23.4677419 L12.7592593,30 L15.7617284,30 L20.5,22.3306452 L25.2382716,30 L28.2407407,30 Z M30,18.9756757 L30,16.4945946 L24.3234568,16.4945946 L28.3111111,10 L25.2851852,10 L20.5,17.8324324 L15.7148148,10 L12.6888889,10 L16.6765432,16.4945946 L11,16.4945946 L11,19 L30,18.9756757 L30,18.9756757 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>swarm_icon</title>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="swarm_icon">
+            <rect id="Rectangle" fill="#DD7200" fill-rule="nonzero" x="0" y="0" width="100" height="100" rx="50"></rect>
+            <g id="bzz" transform="translate(21.000000, 20.000000)" fill="#FFFFFF" stroke="#DD7200">
+                <polygon id="Path-94-Copy-30" stroke-width="3" points="14.0857143 58 29 49.4146341 29 34.5853659 14.0857143 26 0 34.5853659 0 49.4146341"></polygon>
+                <polygon id="Path-94-Copy-62" stroke-width="3" points="29.0857143 35 44 26.4146341 44 11.5853659 29.0857143 3 15 11.5853659 15 26.4146341"></polygon>
+                <polygon id="Path-94-Copy-62" stroke-width="2" points="42.2857143 17 50 12.4390244 50 4.56097561 42.2857143 0 35 4.56097561 35 12.4390244"></polygon>
+                <polygon id="Path-94-Copy-38" stroke-width="3" points="43.0857143 58 58 49.4146341 58 34.5853659 43.0857143 26 29 34.5853659 29 49.4146341"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

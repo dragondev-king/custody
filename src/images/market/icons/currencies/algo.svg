@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>algo</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="algo" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#A30786" x="0" y="0" width="40" height="40" rx="20"></rect>
+            <polygon id="Path" fill="#FFFFFF" points="28 27.9983 25.4909 27.9983 23.8614 21.9459 20.3598 27.9983 17.5591 27.9983 22.9717 18.6312 22.1022 15.3787 14.8023 28 12 28 21.2512 12 23.703 12 24.7781 15.976 27.3091 15.976 25.5802 18.9761"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon_first</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00" transform="translate(-345.000000, -1217.000000)">
+            <g id="Value-props" transform="translate(170.000000, 916.000000)">
+                <g id="Group-13" transform="translate(58.000000, 301.000000)">
+                    <g id="icon_first" transform="translate(117.000000, 0.000000)">
+                        <circle id="Oval" fill="#631A72" cx="36" cy="36" r="36"></circle>
+                        <text id="1" font-family="Georgia" font-size="40" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="19.40625" y="47">1</tspan>
+                        </text>
+                        <text id="ST" font-family="Futura-Medium, Futura" font-size="14" font-weight="400" fill="#FFFFFF">
+                            <tspan x="35.9428711" y="36">ST</tspan>
+                        </text>
+                        <circle id="Oval" stroke="#FFFFFF" stroke-width="2" opacity="0.708472842" cx="36" cy="36" r="32"></circle>
+                        <rect id="Rectangle" fill="#C773DA" x="38" y="41" width="12" height="2" rx="1"></rect>
+                        <rect id="Rectangle" fill="#C773DA" x="38" y="45" width="12" height="2" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

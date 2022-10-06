@@ -1,0 +1,8 @@
+@import "node_modules/@coinlist/css-framework/sass/toolkit.sass";
+@import './variables';
+@import './mixins';
+
+$VARIABLE_PREFIX: an- !default;
+
+$DARK: #252529;
+$PINK: rgba(216, 22, 162, 0.1);

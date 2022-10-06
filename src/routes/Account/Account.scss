@@ -1,0 +1,55 @@
+@import '../../scss/shared.scss';
+
+.Account {
+  &__title {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+  }
+
+  &__options {
+    display: flex;
+    gap: 1.5em;
+    flex-wrap: wrap;
+  }
+
+  &__option {
+    background: white;
+    padding: 2em;
+    border-radius: 5px;
+    display: flex;
+    gap: 0.5em;
+    border: solid 1px $brand-gray-8;
+    width: 16em;
+    color: black;
+
+    &-icon {
+
+      svg path {
+        fill: black;
+      }
+    }
+
+    &-title {
+      font-size: 1.25em;
+    }
+
+    &-description {
+      color: $brand-gray-8;
+      font-size: 1em;
+    }
+
+    &:hover {
+      border: solid 1px $brand-primary;
+
+      color: $brand-primary;
+
+      .Account__option-icon svg path {
+        stroke: $brand-primary;
+        fill: $brand-primary;
+      }
+    }
+
+  }
+
+
+}
